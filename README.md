@@ -7,7 +7,7 @@ Skynet App Store - Logo and UX Design
   
 ** Own Your AppStore ** 
 
-Remember, Its your basic right on Ineternet :)
+Remember, Its your basic right on Internet :)
 
 Checkout How: https://siasky.net/_ARSiDT8EtdmD7PxQmBpFdV4RGzVqeazlEVDZQ7y0pfzTA
 
