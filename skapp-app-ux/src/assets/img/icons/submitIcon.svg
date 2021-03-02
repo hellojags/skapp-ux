@@ -1,0 +1,8 @@
+<svg id="submitIcon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="BG" width="24" height="24" fill="none"/>
+  <g id="Group_68339" data-name="Group 68339" transform="translate(2.789 2.789)">
+    <circle id="Ellipse_546" data-name="Ellipse 546" cx="7" cy="7" r="7" transform="translate(2.211 2.211)" fill="none" stroke="#7e84a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_30" data-name="Line 30" y2="6" transform="translate(9.211 6.211)" fill="none" stroke="#7e84a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_31" data-name="Line 31" x2="6" transform="translate(6.211 9.211)" fill="none" stroke="#7e84a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

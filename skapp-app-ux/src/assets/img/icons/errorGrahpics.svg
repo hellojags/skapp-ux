@@ -1,0 +1,34 @@
+<svg id="Group_2" data-name="Group 2" xmlns="http://www.w3.org/2000/svg" width="376.535" height="265.035" viewBox="0 0 376.535 265.035">
+  <g id="Group_61" data-name="Group 61">
+    <circle id="Oval" cx="25" cy="25" r="25" fill="#1dbf73"/>
+    <g id="Group_59" data-name="Group 59" transform="translate(24 14)">
+      <path id="Path_31" data-name="Path 31" d="M.937,0V12.9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+      <path id="Path_31_Copy" data-name="Path 31 Copy" d="M.937.9V1" transform="translate(0 20)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+  </g>
+  <g id="Group_60" data-name="Group 60" transform="translate(313 48)">
+    <circle id="Oval_Copy_21" data-name="Oval Copy 21" cx="25" cy="25" r="25" fill="#1dbf73"/>
+    <circle id="Oval-2" data-name="Oval" cx="11" cy="11" r="11" transform="translate(13.75 14)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Line_12" data-name="Line 12" d="M.25.25h0" transform="translate(41.75 36)" fill="none"/>
+    <path id="Path_33" data-name="Path 33" d="M11.884.267.43,15.733" transform="translate(18.727 16.733)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <path id="Rectangle" d="M0,0,30.639,24.56,61.138,0,95,18.727,126.614,0l36.006,16.769L200,0V80a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5Z" transform="translate(77 148)" fill="#1dbf73" stroke="#1dbf73" stroke-miterlimit="10" stroke-width="3" opacity="0.35"/>
+  <path id="Rectangle_Copy_18" data-name="Rectangle Copy 18" d="M0,5A5,5,0,0,1,5,0H195a5,5,0,0,1,5,5V78L163.249,94.953,126.517,78,94.439,94.953,61.795,78l-31.65,23.92L0,78Z" transform="translate(77 58)" fill="#1dbf73" stroke="#1dbf73" stroke-miterlimit="10" stroke-width="3" opacity="0.28"/>
+  <circle id="Oval-3" data-name="Oval" cx="5" cy="5" r="5" transform="translate(90 68)" fill="#1dbf73"/>
+  <circle id="Oval_Copy_20" data-name="Oval Copy 20" cx="5" cy="5" r="5" transform="translate(104 68)" fill="#1dbf73"/>
+  <rect id="Rectangle-2" data-name="Rectangle" width="137" height="10" rx="3" transform="translate(125 68)" fill="#fff"/>
+  <path id="Path_30_Copy" data-name="Path 30 Copy" d="M0,0H86a2,2,0,0,1,2,2h0" transform="translate(318 73) rotate(180)" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="10 15"/>
+  <path id="Path_30" data-name="Path 30" d="M0,0H99a16,16,0,0,1,16,16V92" transform="translate(44.351 25.385)" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" stroke-dasharray="10 15"/>
+  <g id="Group" transform="translate(256.557 88.163) rotate(45)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M35.035,80a39.4,39.4,0,0,1-20.166-5.517A40.113,40.113,0,0,1,.585,60H34.741a10.011,10.011,0,0,0,10-10V31.053a10.011,10.011,0,0,0-10-10H0A40.088,40.088,0,0,1,14.355,5.826a39.585,39.585,0,0,1,48.8,5.89,39.973,39.973,0,0,1,6.916,9.337h79.454a19.474,19.474,0,0,1,0,38.948H69.487A40.055,40.055,0,0,1,50.515,76.856,39.312,39.312,0,0,1,35.035,80ZM147.759,31.427a9.474,9.474,0,1,0,9.419,9.474A9.458,9.458,0,0,0,147.759,31.427Z" transform="translate(0.904 0.23)" fill="#1dbf73"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="41" height="13" rx="6" transform="translate(84.349 33.377)" fill="#1dbf73"/>
+  </g>
+  <g id="Group_3" data-name="Group 3" transform="translate(18 118)">
+    <rect id="Rectangle-4" data-name="Rectangle" width="94" height="86" rx="6" fill="#1dbf73"/>
+    <ellipse id="Oval_Copy" data-name="Oval Copy" cx="2.5" cy="2.567" rx="2.5" ry="2.567" transform="translate(8 10)" fill="#1dbf73"/>
+    <ellipse id="Oval_Copy_22" data-name="Oval Copy 22" cx="2.5" cy="2.567" rx="2.5" ry="2.567" transform="translate(15 10)" fill="#33dcb2"/>
+    <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="59" height="5.133" rx="2.567" transform="translate(26 10)" fill="#33dcb2"/>
+    <rect id="Rectangle-5" data-name="Rectangle" width="75" height="23" rx="4" transform="translate(10 26)" fill="#33dcb2"/>
+    <rect id="Rectangle_Copy_2" data-name="Rectangle Copy 2" width="75" height="14" rx="4" transform="translate(10 53)" fill="#33dcb2"/>
+  </g>
+</svg>

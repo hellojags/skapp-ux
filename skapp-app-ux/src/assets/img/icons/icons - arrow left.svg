@@ -1,0 +1,4 @@
+<svg id="icons_arrow_left" data-name="icons / arrow left" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="BG" width="24" height="24" fill="none"/>
+  <path id="color" d="M5.387.21,5.293.293l-5,5A1,1,0,0,0,.21,6.613l.083.094,5,5a1,1,0,0,0,1.5-1.32l-.083-.094L3.414,7H14a1,1,0,0,0,0-2H3.416L6.707,1.707A1,1,0,0,0,6.79.387L6.707.293A1,1,0,0,0,5.387.21Z" transform="translate(4 6)" fill="#7e84a3"/>
+</svg>

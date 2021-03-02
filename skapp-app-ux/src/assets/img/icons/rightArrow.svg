@@ -1,0 +1,4 @@
+<svg id="rightArrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="BG" width="24" height="24" fill="none"/>
+  <path id="color" d="M8.293,11.707a1,1,0,0,1-.083-1.32l.083-.094L11.585,7H1A1,1,0,0,1,1,5H11.585L8.293,1.707A1,1,0,0,1,8.21.387L8.293.293A1,1,0,0,1,9.613.21l.095.083,5,5a1,1,0,0,1,.084,1.32l-.084.094-5,5a1,1,0,0,1-1.415,0Z" transform="translate(4 6)" fill="#7e84a3"/>
+</svg>

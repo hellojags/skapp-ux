@@ -1,0 +1,11 @@
+<svg id="trash-delete-bin.3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_68356" data-name="Group 68356">
+    <path id="Path_52415" data-name="Path 52415" d="M18.532,9H5.468A1.027,1.027,0,0,1,4.44,7.973V7.027A1.027,1.027,0,0,1,5.468,6H18.533A1.027,1.027,0,0,1,19.56,7.027v.945A1.028,1.028,0,0,1,18.532,9Z" fill="none" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52416" data-name="Path 52416" d="M18,9l-.847,10.166A2,2,0,0,1,15.16,21H8.84a2,2,0,0,1-1.993-1.834L6,9" fill="none" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52417" data-name="Path 52417" d="M8,6,9.224,3.553A1,1,0,0,1,10.118,3h3.764a1,1,0,0,1,.894.553L16,6" fill="none" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52418" data-name="Path 52418" d="M12,12v6" fill="none" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52419" data-name="Path 52419" d="M15,12l-.41,6" fill="none" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52420" data-name="Path 52420" d="M9,12l.41,6" fill="none" stroke="#ff6060" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Path_52421" data-name="Path 52421" d="M0,0H24V24H0Z" fill="none"/>
+</svg>

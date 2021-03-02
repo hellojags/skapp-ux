@@ -1,0 +1,4 @@
+<svg id="knowledgeBaseIcon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="BG" width="24" height="24" fill="none"/>
+  <path id="color" d="M0,10A10,10,0,1,1,10,20,10.011,10.011,0,0,1,0,10Zm2,0a8,8,0,1,0,8-8A8.01,8.01,0,0,0,2,10Zm7,6V14h2v2Zm0-4V11a1,1,0,0,1,1-1A2,2,0,1,0,8.005,7.851L8,8H6a4,4,0,1,1,5,3.874V12a1,1,0,0,1-2,0Z" transform="translate(2 2)" fill="#7e84a3"/>
+</svg>

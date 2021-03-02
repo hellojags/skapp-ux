@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="ic_increase" transform="translate(0.459)">
+    <rect id="Rectangle" width="18" height="18" transform="translate(-0.459)" fill="none"/>
+    <g id="Group_31" data-name="Group 31" transform="translate(3 5.5)">
+      <path id="Path_4" data-name="Path 4" d="M0,7.047,3.507,3.438,6.2,5.929,11.493,0" transform="translate(0 0)" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_7" data-name="Line 7" d="M3,.5H0" transform="translate(8.493 -0.5)" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_7-2" data-name="Line 7" d="M.5,0V3" transform="translate(10.993)" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

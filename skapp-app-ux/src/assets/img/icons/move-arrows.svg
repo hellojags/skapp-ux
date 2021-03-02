@@ -1,0 +1,17 @@
+<svg id="move-arrows" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_68358" data-name="Group 68358">
+    <path id="Path_52425" data-name="Path 52425" d="M13.56,5.874,11.783,4.1,10.005,5.874" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52426" data-name="Path 52426" d="M11.783,10.319V4.1" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52427" data-name="Path 52427" d="M18,13.874,19.783,12.1,18,10.322" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52428" data-name="Path 52428" d="M14.449,12.1h5.334" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52429" data-name="Path 52429" d="M5.56,10.319,3.783,12.1,5.56,13.874" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52430" data-name="Path 52430" d="M9.116,12.1H3.783" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52431" data-name="Path 52431" d="M2.783,7.1V5.347h0A2.25,2.25,0,0,1,5.033,3.1h1.75" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52432" data-name="Path 52432" d="M16.783,3.1h1.75a2.25,2.25,0,0,1,2.25,2.25V7.1" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52433" data-name="Path 52433" d="M20.783,17.1v1.75h0a2.251,2.251,0,0,1-2.25,2.25h-1.75" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52434" data-name="Path 52434" d="M6.783,21.1H5.033a2.25,2.25,0,0,1-2.25-2.25h0V17.1" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52435" data-name="Path 52435" d="M10.005,18.319,11.783,20.1l1.777-1.778" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_52436" data-name="Path 52436" d="M11.783,13.874V20.1" fill="none" stroke="#1dbf73" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Path_52437" data-name="Path 52437" d="M24,0V24H0V0Z" fill="none"/>
+</svg>

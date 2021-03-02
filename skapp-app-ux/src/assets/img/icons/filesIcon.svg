@@ -1,0 +1,15 @@
+<svg id="filesIcon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_52234" data-name="Path 52234" d="M24,24H0V0H24Z" fill="none"/>
+  <g id="folder" transform="translate(3.512 -37.679)">
+    <g id="Group_67780" data-name="Group 67780" transform="translate(0 44.506)">
+      <g id="Group_67779" data-name="Group 67779" transform="translate(0 0)">
+        <path id="Path_52291" data-name="Path 52291" d="M14.23,86.887H7.921L6.666,85.4a.214.214,0,0,0-.171-.077H1.4A1.414,1.414,0,0,0,0,86.733v9.174A1.414,1.414,0,0,0,1.413,97.32H14.23a1.414,1.414,0,0,0,1.413-1.413V88.3A1.414,1.414,0,0,0,14.23,86.887Z" transform="translate(0 -85.319)" fill="#7e84a3"/>
+      </g>
+    </g>
+    <g id="Group_67782" data-name="Group 67782" transform="translate(1.86 42.679)">
+      <g id="Group_67781" data-name="Group 67781" transform="translate(0 0)">
+        <path id="Path_52292" data-name="Path 52292" d="M57.623,44.247H51.312l-1.255-1.492a.214.214,0,0,0-.171-.077H44.8A1.413,1.413,0,0,0,43.4,43.9h4.641a.821.821,0,0,1,.631.293l1.072,1.274H55.77a2.023,2.023,0,0,1,2.02,2.02v7.18a1.413,1.413,0,0,0,1.238-1.4V45.658A1.414,1.414,0,0,0,57.623,44.247Z" transform="translate(-43.4 -42.679)" fill="#7e84a3"/>
+      </g>
+    </g>
+  </g>
+</svg>
