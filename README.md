@@ -18,17 +18,29 @@ Routes are not mapped corectly. After npm install and start you can access pages
 
 some of the routes are not mapped correctly use below route to access pages
 http://localhost:3000
+
 http://localhost:3000/login
+
 http://localhost:3000/apps
+
 http://localhost:3000/installedappps
+
 http://localhost:3000/deploysite
+
 http://localhost:3000/nodomain
+
 http://localhost:3000/storagegateway
+
 http://localhost:3000/appdetail
+
 http://localhost:3000/error
+
 http://localhost:3000/noapp
+
 http://localhost:3000/submitsite
+
 http://localhost:3000/settings
+
 http://localhost:3000/descoverdev
 
 # Branding
